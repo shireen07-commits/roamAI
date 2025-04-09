@@ -32,7 +32,7 @@ class Settings(BaseSettings):
     FLIGHT_API_URL: str = "https://mock-flight-api.example.com"
     HOTEL_API_URL: str = "https://mock-hotel-api.example.com"
     
-    # Almosafer specific settings
+    # hotel specific settings
     PRIORITIZE_MIDDLE_EAST: bool = True
     PRIORITIZE_LUXURY: bool = True
     PARTNER_WITH_NUSUK: bool = True
