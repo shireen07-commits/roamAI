@@ -1,0 +1,88 @@
+================================================================================
+                    RoamAI - Travel Planning Assistant Demo                     
+================================================================================
+
+Sample User Preferences:
+- Destination: Dubai
+- Budget: $5000.00
+- Travel dates: 2025-05-09 to 2025-05-14
+- Travelers: 2
+- Travel style: luxury
+- Interests: food, shopping, culture
+- Special requirements: We prefer hotels with spa facilities
+
+Creating travel itinerary for Dubai, United Arab Emirates...
+
+Itinerary created successfully!
+
+Destination: Dubai, United Arab Emirates
+Dates: 2025-05-09 to 2025-05-14
+Duration: 6 days
+Total Cost: $3476.21
+
+Flights:
+  Outbound: Air France AF453
+    JFK to DXB
+    Departure: 2025-05-09 10:00:00
+    Cabin: Economy
+    Price: $671.99
+
+  Return: United Airlines UA332
+    DXB to JFK
+    Departure: 2025-05-14 18:30:00
+    Cabin: Economy
+    Price: $580.12
+
+Accommodation:
+  Sheraton Dubai Resort
+  Resort - Single Room
+  Rating: 3.5 / 5
+  Price per night: $166.11
+  Total price: $830.57
+  Amenities: Restaurant, Fitness Center, Parking, Wi-Fi
+
+Daily Itineraries (summary):
+  Day 1 - 2025-05-09:
+
+  Day 2 - 2025-05-10:
+    Activities: 3 planned
+    Dining: 1 recommendations
+
+  Day 3 - 2025-05-11:
+    Activities: 3 planned
+    Dining: 1 recommendations
+
+  Day 4 - 2025-05-12:
+    Activities: 3 planned
+    Dining: 2 recommendations
+
+  Day 5 - 2025-05-13:
+    Activities: 3 planned
+    Dining: 2 recommendations
+
+  Day 6 - 2025-05-14:
+
+Booking References:
+  Flight: AF5F1E1266 (confirmed)
+  Flight: UAC10E1DB6 (confirmed)
+  Accommodation: SD1E563ED8 (confirmed)
+  Activity: OC9428732D (confirmed)
+  Activity: RFC6A602C8 (confirmed)
+  Activity: TC4464CD1B (confirmed)
+  Activity: SM598D40EC (confirmed)
+  Activity: OCFFA049C5 (confirmed)
+  Activity: SMFBE54761 (confirmed)
+  Activity: SME8209FCA (confirmed)
+  Activity: SM1FD3D3EA (confirmed)
+  Activity: SMB15EC286 (confirmed)
+  Activity: SM4F6940F0 (confirmed)
+  Activity: OC5E4B2556 (confirmed)
+  Activity: OC7354E558 (confirmed)
+
+Notes: This  6-day Dubai itinerary focuses on food, shopping, and culture as requested.
+
+Email confirmation sent to: john.doe@example.com
+
+================================================================================
+                          Demo Completed Successfully                           
+================================================================================
